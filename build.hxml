@@ -1,0 +1,5 @@
+-cp ../../../lib-haxe-simpleutil
+-cp ../../../lib-haxe-stringskip
+-cp ../..
+-main Main
+-js test.js
